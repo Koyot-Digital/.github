@@ -4,7 +4,7 @@
 We at Koyot Digital are a Roblox development group, our current game is Oakridge Nuclear Power Station, or ONPS for short- is a reactor simulation game, not one of those "core" games, we emulate a fully-functional RMBK-1500 Reactor!
 
 ### For Contributors
-welcome! here is some useful info:
+Welcome! here is some useful info:
 * everything, and i mean *everything* is hosted and served with free tools from github
 * want to update somthing?
   * First, look at the README.md or CONTRIUTING.md in the respective repos
