@@ -22,6 +22,7 @@ welcome! here is some useful info:
 ## Wiki Development Team
 
 ![WikiDevelopmentTeam](https://cdn.discordapp.com/attachments/1392867326688235836/1404835381106577511/wikiteam1.png?ex=689ca267&is=689b50e7&hm=3b6855dc1aff12a0f0ab1383d541215ef81375a937d866f5dd1e09a4447bb335&)
+
 The Wiki Team is responsible for creating,updating the offical Wiki. They help maintain an accurate source of information and make sure everyone can access it.
 
 ## Engineering Team
