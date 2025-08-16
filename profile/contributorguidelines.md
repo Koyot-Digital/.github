@@ -1,4 +1,4 @@
-**# Contributor Role Guidelines**
+# Contributor Role Guidelines
 
 ## Activity
 All Contributors are required to be activity contributing to the wiki with recent changes and additions. There must be at least one contribution to the wiki every 2 Weeks. These changes cannot be minor edits to existing pages. For Example: Spelling Corrections. Contributors Must also make suggestions to either the game or the wiki. It Must be a minimum of 1 Suggestion per week.
@@ -11,6 +11,7 @@ All Contributors must maintain a clean record to their moderation record. If you
 
 ## Community
 All Contributors must show at least some activity to the community either by engaging with them via talking in general or other means.
+
 
 # GitHub Standards
 
