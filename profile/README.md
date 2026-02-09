@@ -21,20 +21,13 @@ Welcome! here is some useful info:
 
 ## Wiki Development Team
 
-![WikiDevelopmentTeam](https://cdn.discordapp.com/attachments/1416125112121298994/1424877253342531737/wikiteam.png?ex=68e58bda&is=68e43a5a&hm=7fb14e139159c182ee0db21bf4dd0f63fd6b11d2c94e87600ac684492ba8deb3&)
+![WikiDevelopmentTeam](https://drive.google.com/file/d/1wl4O0MWxJtBi_AJt_CQI1XDv3FMJ8R7T/view?usp=sharing)
 
 The Wiki Team is responsible for creating, updating the offical Wiki. They help maintain an accurate source of information and making sure everyone can access it. They also contribute ideas for improving both the wiki and the game.
 
 ## Engineering Team
 
 
-![EngineeringTeam](https://cdn.discordapp.com/attachments/1416125112121298994/1424877254004969552/engineeringteam.png?ex=68e58bda&is=68e43a5a&hm=e80549d3fc590a3e32d115b597f2f20843e31f32e37734bc0ad9d6cb3ba5e882&)
+![EngineeringTeam](https://drive.google.com/file/d/15j6ELnY5IOlt22T_7h6j3aeWFCOEaaS2/view?usp=sharing)
 
 The Engineering Team are responsible for the techinal site of the wiki. This includes optimization, fixing bugs, maintaining accessibility and other things. They maintain the hosting services and the techinal side of the wiki.
-
-## Design Team
-
-
-![DesignTeam](https://cdn.discordapp.com/attachments/1416125112121298994/1424877253665357844/designteam.png?ex=68e58bda&is=68e43a5a&hm=113916560bf33cad86312fe1c8f0c85e4bbc38ed1f9738cab608992f1c61eecf&)
-
-The Design Team are responsible for the Design Aspect of the wiki. They help design where stuff should go and how it should be placed.
