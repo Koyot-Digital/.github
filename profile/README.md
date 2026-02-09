@@ -21,13 +21,13 @@ Welcome! here is some useful info:
 
 ## Wiki Development Team
 
-![WikiDevelopmentTeam](https://drive.google.com/file/d/1wl4O0MWxJtBi_AJt_CQI1XDv3FMJ8R7T/view?usp=sharing)
+![WikiDevelopmentTeam](https://drive.google.com/uc?id=1wl4O0MWxJtBi_AJt_CQI1XDv3FMJ8R7T)
 
 The Wiki Team is responsible for creating, updating the offical Wiki. They help maintain an accurate source of information and making sure everyone can access it. They also contribute ideas for improving both the wiki and the game.
 
 ## Engineering Team
 
 
-![EngineeringTeam](https://drive.google.com/file/d/15j6ELnY5IOlt22T_7h6j3aeWFCOEaaS2/view?usp=sharing)
+![EngineeringTeam](https://drive.google.com/uc?id=15j6ELnY5IOlt22T_7h6j3aeWFCOEaaS2)
 
 The Engineering Team are responsible for the techinal site of the wiki. This includes optimization, fixing bugs, maintaining accessibility and other things. They maintain the hosting services and the techinal side of the wiki.
