@@ -65,13 +65,14 @@ You can contribute by:
 
 If you’re unsure where to start, look for issues labeled `good first issue` or `help wanted`.
 
-## Getting Started
+## Getting Started 
 
+[Wiki Example]
 1. Fork the repository
 2. Clone your fork locally
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Koyot-Digital/Wiki.git
    cd your-repo
    ```
 3. Create a new branch for your change
