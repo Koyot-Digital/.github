@@ -21,7 +21,6 @@ We at Koyot Digital are a Roblox development group, our current game is Oakridge
 <!-- please finish this later @gargleblaster-rmbk AUG/10/25 -->
 # Useful Information
 
-## Info
 
 ## Useful Links
 
